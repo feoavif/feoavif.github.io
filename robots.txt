@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /assets/css/
+Disallow: /assets/js/
+Allow: /assets/img/
+Allow: /index.html
+Allow: /about.html
+Allow: /contact.html
+Allow: /posts/
+Sitemap: https://wkazisan.github.io/sitemap.xml

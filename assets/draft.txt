@@ -2,11 +2,10 @@
 <html lang="bn">
 
 <head>
-  <meta name="google-site-verification" content="pzAZarPHLek1gec8rjTLbvqievTxWzPisPKq3gqn7SY" />
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="https://wkazisan.github.io/assets/css/style.css">
-  <link rel="stylesheet" href="https://wkazisan.github.io/asstes/css/fonts.css">
+  <link rel="stylesheet" href="https://wkazisan.github.io/styles/style.css">
+  <link rel="stylesheet" href="https://wkazisan.github.io/styles/fonts.css">
   <title>Why are you here ?</title>
 </head>
 
@@ -45,7 +44,7 @@
           <img
             src="https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-6/475164541_1131032835115780_2759221723515675364_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeG_IGsq-AdmKgq8EeZweeInYhBofd4VRz1iEGh93hVHPXM7x9e27HT9ZOnupVNBfjEZL6LlSKlJQOvfwIdHSEpS&_nc_ohc=Rp3VUpl3J7YQ7kNvwET8lcj&_nc_oc=Adma6A2l4HjBdsuEJ6JHyVgG1Fbv1wNJWjZ_48E-Qt9mlbLLC1M0ufFMO2S3SI3QAto&_nc_zt=23&_nc_ht=scontent.fdac24-1.fna&_nc_gid=GWICOVabtOXBh90vkYoO1Q&oh=00_AfadX70BFbldgEtT7z9XM8K_fcWvEwh5BgeWo49j6QAi9g&oe=68D12415"
             alt="">
-          <h2>নিঃসঙ্গতা</h2>
+          <h2>আমরা নিঃসঙ্গতায় সঙ্গ খুঁজি নিজের মত মানুষ খুঁজি,</h2>
           <div class="blog-detail">
             <span>By Feo Avif</span>
             <span>1 Min Read</span>
@@ -63,7 +62,7 @@
               <path d="M15 10l5 5-5 5" />
               <path d="M4 4v7a4 4 0 004 4h12" />
             </svg>
-            <a href="https://wkazisan.github.io/posts/nishongota-2025">See More</a>
+            See More
           </a>
         </div>
       </div>
@@ -124,7 +123,7 @@
               <path d="M15 10l5 5-5 5" />
               <path d="M4 4v7a4 4 0 004 4h12" />
             </svg>
-            <a href="https://wkazisan.github.io/posts/mayabi-betha-2025">See More</a>
+            See More
           </a>
         </div>
       </div>
@@ -158,7 +157,7 @@
               <path d="M15 10l5 5-5 5" />
               <path d="M4 4v7a4 4 0 004 4h12" />
             </svg>
-            <a href="https://wkazisan.github.io/posts/koster-hasi-2025">See More</a>
+            <a href="https://wkazisan.github.io/articles/koster-hasi-2025">See More</a>
           </a>
         </div>
       </div>
@@ -178,82 +177,59 @@
       </div>
       <div class="blog-right">
         <div class="blog-right-container">
-  <div class="blog-title-date">
-    <div class="blog-right-page">1</div>
-    <div class="date">19.09.2025</div>
-  </div>
-  <div class="blog-right-page-title">আটপৌরে কাঁটা</div>
-  <div class="blog-right-page-subtitle">মস্ত বড় মরিচিকায় আটকে গেছি; ধোঁকা
-জীবন মানেই দুঃস্বপ্নের করুণ ধোকা
-ছন্ন ছাড়া আটপৌরে আশা। কিছু অদ্ভুত ভালোবাসা
-যদিও মনে হয় খুব কাছের। বিশ্বাসযোগ্য আশ্রয়স্থল
-তবু আট আনার জীবনে ছয় আনাই মিথ্যা; হা হা</div>
-</div>
-
-<div class="blog-right-container">
-  <div class="blog-title-date">
-    <div class="blog-right-page">2</div>
-    <div class="date">19.09.2025</div>
-  </div>
-  <div class="blog-right-page-title">রাজনীতি ও ভালোবাসা</div>
-  <div class="blog-right-page-subtitle">দেখা হবে রাজপথে ফুটপাতে মহাসড়ক অবরোধে
-হবে আন্দোলন ; চিৎকারে অথবা নীরবতায়
-ভাষণে ভাষণে মুখরিত চারদিক।
-আমি দলীয় প্লেকার্ডে মাথায় কালো কাপড়
-তুমি বিরোধীদলীয় নেত্রী। আমি শুধু প্রেম বুঝি
-সর্বস্ব দিতে জানি। আমি অকুতোভয় বীর</div>
-</div>
-
-<div class="blog-right-container">
-  <div class="blog-title-date">
-    <div class="blog-right-page">3</div>
-    <div class="date">19.09.2025</div>
-  </div>
-  <div class="blog-right-page-title">কবিতন্ত্র</div>
-  <div class="blog-right-page-subtitle">রাস্তার প্রতিটা দেয়ালে কবিতা হতো
-প্রেমিক তার প্রেমিকার; সম্পর্কের বিচ্ছেদ বহুদূর
-নীল শাড়ি পরে কেউ পার্কে ঘোরে; প্রেমিকেরা পাঞ্জাবি
-দামি রেস্টুরেন্টের বদলে পার্ক
-ছোলা বুট আর বাদাম চলে।</div>
-</div>
-
-<div class="blog-right-container">
-  <div class="blog-title-date">
-    <div class="blog-right-page">4</div>
-    <div class="date">19.09.2025</div>
-  </div>
-  <div class="blog-right-page-title">নিষ্ঠুরানন্দ</div>
-  <div class="blog-right-page-subtitle">কেউ ভালো নেই। নেই সাধারণ থেকে অসাধারণ
-নেই রাজা থেকে রাজনৈতিক ; ভালো নেই ভিক্ষুক
-দশ তালা ফ্লাটের মালিক। রোদ! কাউকেই ছাড়েনা।
-শুধু এসির নিচে বসে লাট সাহেব জানেনা; রোদের কি জ্বালা।</div>
-</div>
-
-<div class="blog-right-container">
-  <div class="blog-title-date">
-    <div class="blog-right-page">5</div>
-    <div class="date">19.09.2025</div>
-  </div>
-  <div class="blog-right-page-title">আক্ষেপের আশা</div>
-  <div class="blog-right-page-subtitle">আমি অবুঝ মানব সারাজীবনই করেছি ভূল
-স্বভাবে স্বজ্ঞানে ও আবেগে; তাই ভূল হতে বাঁচতে শেষ ভূলকেই করব কবুল
-তাই এই শেষ রাতে স্বপ্নগুলো ছিঁড়ছি অবিরত
-নিচ্ছি বিদায় তুমি তোমার তাদের থেকে,</div>
-</div>
-
-<div class="blog-right-container">
-  <div class="blog-title-date">
-    <div class="blog-right-page">6</div>
-    <div class="date">19.09.2025</div>
-  </div>
-  <div class="blog-right-page-title">অসীম ঘুম</div>
-  <div class="blog-right-page-subtitle">জীবনের এক কূলে এসে বেকুল আমি
-নেই, নেই পথ এগুবার।
-কেমন ক্লান্তি লাগে, অসীম ঘুমে তলিয়ে যাই
-ভার করা বুক আর মেদহীন হাড় নিয়ে
-ক্লান্ত পায়ে হেটে যাই বন্ধুর পথে।</div>
-</div>
-
+          <div class="blog-title-date">
+            <div class="blog-right-page">1</div>
+            <div class="date">12.06.2021</div>
+          </div>
+          <div class="blog-right-page-title">Blonde - Widespread Acclaim</div>
+          <div class="blog-right-page-subtitle">Blonde received widespread acclaim, with critics praising Ocean's
+            introspective lyrics and the album's</div>
+        </div>
+        <div class="blog-right-container">
+          <div class="blog-title-date">
+            <div class="blog-right-page">2</div>
+            <div class="date">12.06.2021</div>
+          </div>
+          <div class="blog-right-page-title">Introspective Lyrics and Beats</div>
+          <div class="blog-right-page-subtitle">When we toured Scotland we stopped at several selft-sealing hpuses
+            because hotels would</div>
+        </div>
+        <div class="blog-right-container">
+          <div class="blog-title-date">
+            <div class="blog-right-page">3</div>
+            <div class="date">12.06.2021</div>
+          </div>
+          <div class="blog-right-page-title">The Language Of Gris: Comples Beauty Of Monochrome</div>
+          <div class="blog-right-page-subtitle">The interior concept was conceived of by Dutch archtitect Studio Anne
+            Holtrop who cleverly emulated</div>
+        </div>
+        <div class="blog-right-container">
+          <div class="blog-title-date">
+            <div class="blog-right-page">4</div>
+            <div class="date">12.06.2021</div>
+          </div>
+          <div class="blog-right-page-title">A24 IS LAUNCHING ITS OWN BEAUTY BRAND</div>
+          <div class="blog-right-page-subtitle">Blonde received widespread acclaim, with critics praising Ocean's
+            introspective lyrics and the album's</div>
+        </div>
+        <div class="blog-right-container">
+          <div class="blog-title-date">
+            <div class="blog-right-page">5</div>
+            <div class="date">12.06.2021</div>
+          </div>
+          <div class="blog-right-page-title">Elon Musk's SpaceX is launching a moon satellite</div>
+          <div class="blog-right-page-subtitle">The interior concept was conceived of by Dutch archtitect Studio Anne
+            Holtrop who cleverly emulated</div>
+        </div>
+        <div class="blog-right-container">
+          <div class="blog-title-date">
+            <div class="blog-right-page">6</div>
+            <div class="date">12.06.2021</div>
+          </div>
+          <div class="blog-right-page-title">What Happens When You Leave Your Old life Behind</div>
+          <div class="blog-right-page-subtitle">The interior concept was conceived of by Dutch archtitect Studio Anne
+            Holtrop who cleverly emulated</div>
+        </div>
         <div class="circle">
           <div class="circle-title">Leave Your Old Life Behind</div>
           <div class="circle-subtitle">Don't try to be like someone else, be yourself. Be secure with yourself.</div>
