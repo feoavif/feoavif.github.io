@@ -3,7 +3,7 @@ Disallow: /assets/css/
 Disallow: /assets/js/
 Allow: /assets/img/
 Allow: /index.html
-Allow: /about.html
 Allow: /contact.html
+Allow: /social.html
 Allow: /posts/
 Sitemap: https://feoavif.github.io/sitemap.xml
